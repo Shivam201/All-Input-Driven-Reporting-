@@ -9,5 +9,10 @@ html page
 
 How it work:
 Fill your result to the Excel , CSV or XML template and Click Run.Bat it will generate html file
-Use this html file direclty as your output.
+Use this html file directly as your output.
 
+Requirement
+Java 1.8
+Java should be in your classpath otherwise bat file will not run.
+
+Note - Please follow the package look screenshot and lib folder screenshot to create package correctly.
